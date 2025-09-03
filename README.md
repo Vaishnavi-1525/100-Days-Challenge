@@ -1,2 +1,4 @@
-# 100-Days-Challenge
-100 Days Coding Challenge in Java. Daily practice programs, problem solving.
+# 🚀 100 Days Coding Challenge  
+
+This repository contains my code for the **100 Days Coding Challenge**.  
+I will upload programs daily in **Java ☕..  
