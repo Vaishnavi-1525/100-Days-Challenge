@@ -28,4 +28,4 @@ z
 ## 💻 How to Run Code ### Java ☕
 ```
 javac Day1.java
-java Day1```
+java Day1
