@@ -17,9 +17,7 @@
   
   --- 
 
-  
-## 💻 How to Run Code  
-
-### Java ☕  
-```bash
-javac Day4.java```
+## 💻 How to Run Code ### Java ☕
+```
+javac Day4.java
+java Day4
