@@ -17,7 +17,8 @@
   
   --- 
 
-## 💻 How to Run Code ### Java ☕
+## 💻 How to Run Code
+### Java ☕
 ```
 javac Day5.java
 java Day5
