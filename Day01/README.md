@@ -24,7 +24,9 @@ Invalid Choice
 
 ---
 
-## 💻 How to Run Code ### Java ☕
+## 💻 How to Run Code 
+
+### Java ☕
 ```
 javac Day2.java
 java Day2
