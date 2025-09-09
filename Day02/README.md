@@ -20,7 +20,9 @@ Write a program to identify if the entered character is an **alphabet** or **not
 **Output:** @ is Not an Alphabet  
 
 ---
-## 💻 How to Run Code ### Java ☕
+## 💻 How to Run Code 
+
+### Java ☕
 ```
 javac Day2.java
 java Day2
