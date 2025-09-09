@@ -22,6 +22,7 @@ Write a program to identify if the entered character is an **alphabet** or **not
 ---
 ## 💻 How to Run Code 
 
+
 ### Java ☕
 ```
 javac Day2.java
