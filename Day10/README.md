@@ -19,6 +19,9 @@ Factorial of 0 is 1
 
 ---
 
-## 💻 How to Run Code ### Java ☕
+## 💻 How to Run Code 
+
+### Java ☕
+```
 javac Day10.java
 java Day10
