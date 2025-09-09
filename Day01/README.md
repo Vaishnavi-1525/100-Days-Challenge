@@ -5,6 +5,7 @@ Write a program to identify whether a given character is a **Vowel** or a **Cons
 
 ---
 
+
 ## 📝 Sample Input & Output  
 
 ### Input  
