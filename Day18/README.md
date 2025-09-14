@@ -8,8 +8,8 @@ Write a program to add two fractions and display their sum in the **simplest for
 ## 📝 Sample Input & Output  
 
 ### Input : 
-Enter the Numerator of First Fraction: 1  
-Enter the Denominator of First Fraction: 2 
+Enter the Numerator of First Fraction: 1 
+Enter the Denominator of First Fraction: 2
 Enter the Numerator of Second Fraction: 1
 Enter the Denominator of Second Fraction: 3
 
