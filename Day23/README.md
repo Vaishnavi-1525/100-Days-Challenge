@@ -31,10 +31,8 @@ Reversing a number means arranging its digits in the opposite order.
 ## 💻 How to Run Code 
 
 ### Java ☕
+```
 javac day23.java
 java day23
 
 
-
-### Output :  
-Reversed Number: 505
