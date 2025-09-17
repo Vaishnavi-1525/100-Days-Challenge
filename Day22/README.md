@@ -32,6 +32,8 @@ A number can sometimes be written as the sum of two prime numbers.
 ---
 
 
-## 💻 How to Run Code ### Java ☕
+## 💻 How to Run Code
+### Java ☕
+```
 javac day22.java
 java day22
