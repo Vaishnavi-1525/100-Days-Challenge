@@ -20,13 +20,15 @@ The program prints stars (`*`) in a triangular form.
 
 ### Output :  
 
-*
-* *
-* * *
-* * * *
-* * * * *
+### *
+### * *
+### * * *
+### * * * *
+### * * * * *
 
---- ## 💻 How to Run Code 
+---
+
+## 💻 How to Run Code 
 ### Java ☕
 ```
 javac day24.java
