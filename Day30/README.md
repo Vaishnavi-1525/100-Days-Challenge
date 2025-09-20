@@ -2,7 +2,10 @@
 
 
 ## 🎯 Problem Statement  
-Write a program to **print a number triangle pattern** where each row contains the same number repeated as many times as the row number.  
+
+Write a program to **print a number triangle pattern** where each row contains the same number repeated as many times as the row number. 
+
+
 ---
 
 ## 📖 Explanation  
