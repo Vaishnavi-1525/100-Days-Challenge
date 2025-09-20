@@ -1,4 +1,4 @@
-# 🌟 🌟 Day 29 – Hollow Square Star Pattern
+# 🌟 Day 29 – Hollow Square Star Pattern
 
 ## 🎯 Problem Statement  
 Write a program to **print a hollow square star pattern using nested loops**.
