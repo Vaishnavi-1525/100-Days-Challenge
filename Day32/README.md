@@ -6,6 +6,8 @@
 **Write a program to print a 10×10 square pattern where:
 - All borders (top, bottom, left, right) are.
 - The main diagonal (top-left to bottom-right) is also **.
+
+  
 ---
 
 ## 📖 Explanation  
@@ -26,26 +28,15 @@ The program uses nested loops:
 ### Output :  
 
 ### * * * * * * * * * * 
-
 ### * *               * 
-
 ### *   *             * 
-
 ### *     *           * 
-
 ### *       *         * 
-
 ### *         *       * 
-
 ### *           *     * 
-
 ### *             *   * 
-
 ### *               * * 
-
 ### * * * * * * * * * * 
-
-
 
 
 --- 
