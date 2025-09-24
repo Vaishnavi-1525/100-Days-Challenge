@@ -32,5 +32,6 @@ Write a Java program to print a **pyramid pattern of numbers** where each row co
 
 ## 💻 How to Run Code 
 ### Java ☕
+```
 javac day38.java
 java day38
