@@ -33,5 +33,6 @@ Write a program to **print a pyramid pattern of numbers where each row contains 
 
 ## 💻 How to Run Code 
 ### Java ☕
+```
 javac day37.java
 java day37
