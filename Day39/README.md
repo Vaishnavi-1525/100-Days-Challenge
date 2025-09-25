@@ -1,11 +1,4 @@
 
-📌 Problem Statement
-
-
-
-📝 Program Explanation
-
-
 
 # Day 39 - Number Square Pattern
 
