@@ -15,7 +15,7 @@ Write a Java program to calculate the total number of handshakes possible among 
 
 ## 📝 Sample Input & Output  
 
-### Input:  Enter the Radius of Circle : Enter the Number of Person's : 5
+### Input: Enter the Number of Person's : 5
 
 
 ### Output:  10
