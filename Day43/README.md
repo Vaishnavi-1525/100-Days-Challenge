@@ -1,10 +1,4 @@
 
-📌 Problem Statement
-
-
-
-📝 Program Explanation
-
 
 # 🌟 Day 43 - Left Shift Operation
 
