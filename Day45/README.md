@@ -16,11 +16,11 @@ Write a Java program to **join two strings** entered by the user.
 
 ## 📝 Sample Input & Output  
 
-### Input  Enter the First String : Hello
+### Input :  Enter the First String : Hello
 ###        Enter the Second String which you want to join : World
 
 
-### Output  HelloWorld
+### Output:  HelloWorld
 
 
 --- 
