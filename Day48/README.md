@@ -29,8 +29,6 @@ Write a Java program to **remove all vowels (a, e, i, o, u)** from a given strin
 
 
 
----
-
 ## 💻 How to Run Code  
 
 ### ✅ Java Instructions  
