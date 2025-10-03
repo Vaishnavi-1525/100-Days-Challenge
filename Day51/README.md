@@ -32,7 +32,7 @@ Write a Java program to **count the sum of all numbers in a string**.
 
 ## 💻 How to Run Code  
 
-### ✅ Java Instructions  
+### Java ☕ 
 ```bash
 javac day51.java
 java day51
