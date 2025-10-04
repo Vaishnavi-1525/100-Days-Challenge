@@ -1,4 +1,4 @@
-# 🌟 Day 52 – Capitalize the First and Last Letter of Each Word of a String  
+# 🌟 Day 53 – Capitalize the First and Last Letter of Each Word of a String  
 
 ## 🎯 Problem Statement  
 Write a Java program to **capitalize the first and last letter of each word** in a given string.  
