@@ -28,6 +28,6 @@ Write a Java program to **capitalize the first and last letter of each word** in
 
 ## 💻 How to Run Code
 ### ✅ Java ☕
-bash
+```
 javac day53.java
 java day53
