@@ -22,5 +22,6 @@ Write a Java program to **print all non-repeating characters** from a given stri
 
 ## 💻 How to Run Code 
 ### Java ☕
+```
 javac day54.java
 java day54
