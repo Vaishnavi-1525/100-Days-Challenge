@@ -1,33 +1,44 @@
-# 🌟 Day 59 – Find the Array Type
+# 🌟 Day 59 – Find the Array Type (Odd / Even / Mixed)
 
 ## 📝 Problem Statement
 
-Write a Java program to find the type of an array.
-
-## 📖 Explanation
-- The array can be:
-- Increasing → each element is greater than or equal to the previous
-- Decreasing → each element is less than or equal to the previous
-- Both → all elements are equal (can be considered both increasing & decreasing)
-- Random → none of the above
+Write a Java program to find the type of an array, whether it is:
+- Odd → all elements are odd
+- Even → all elements are even
+- Mixed → contains both odd and even elements
 
 ---
+
+## 📖 Explanation
+
+- The program takes the size of the array and its elements as input.
+- It checks each element:
+- If all numbers are odd → print Odd
+- If all numbers are even → print Even
+- If both odd & even numbers are present → print Mixed
+
+---
+
 
 ## 📝 Sample Input & Output
 
-### Input: [1, 2, 3, 4, 5]  
-### Output: Increasing
+### ✅ Input: 3
+### 1 3 5
 
-### Input: [5, 4, 3, 2, 1]  
-### Output: Decreasing
+### ✅ Output: Odd
 
-### Input: [7, 7, 7, 7]  
-### Output: Both
+### ✅ Input: 4
+### 2 4 6 8
 
-### Input: [1, 3, 2, 5]  
-### Output: Random
+### ✅ Output: Even
+
+### ✅ Input: 5
+### 1 2 3 4 5
+
+### ✅ Output: Mixed
 
 ---
+
 
 ## 💻 How to Run Code
 ## Java ☕
