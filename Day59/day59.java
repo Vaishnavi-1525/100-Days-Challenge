@@ -1,44 +1,41 @@
 import java.util.Scanner;
 
-public class 59
-  {
+public class day59 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input array size
+        // Input size of array
         System.out.print("Enter size of array: ");
-        int n = sc.nextInt();
+        int size = sc.nextInt();
 
-        int[] arr = new int[n];
+        int[] arr = new int[size];
 
         // Input array elements
-        System.out.println("Enter array elements:");
-        for (int i = 0; i < n; i++) {
+        System.out.println("Enter elements:");
+        for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
         }
 
-        boolean increasing = true;
-        boolean decreasing = true;
+        // Flags to check odd and even presence
+        boolean hasOdd = false;
+        boolean hasEven = false;
 
-        // Check the array type
-        for (int i = 1; i < n; i++) {
-            if (arr[i] < arr[i - 1]) {
-                increasing = false;
-            }
-            if (arr[i] > arr[i - 1]) {
-                decreasing = false;
+        // Check each element
+        for (int i = 0; i < size; i++) {
+            if (arr[i] % 2 == 0) {
+                hasEven = true;
+            } else {
+                hasOdd = true;
             }
         }
 
-        // Determine result
-        if (increasing && decreasing) {
-            System.out.println("Array is Both (all elements are equal)");
-        } else if (increasing) {
-            System.out.println("Array is Increasing");
-        } else if (decreasing) {
-            System.out.println("Array is Decreasing");
+        // Determine array type
+        if (hasOdd && !hasEven) {
+            System.out.println("Odd");
+        } else if (hasEven && !hasOdd) {
+            System.out.println("Even");
         } else {
-            System.out.println("Array is Random");
+            System.out.println("Mixed");
         }
 
         sc.close();
