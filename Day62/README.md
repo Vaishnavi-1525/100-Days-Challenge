@@ -29,5 +29,6 @@ Write a Java program to find the sum of all elements in an array.
 
 ## 💻 How to Run Code 
 ## Java ☕
+```
 javac day62.java
 java day62
