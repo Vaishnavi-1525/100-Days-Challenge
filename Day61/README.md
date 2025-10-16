@@ -1,4 +1,4 @@
-# 🌟 Day 45 - Smallest and Largest Element in an Array
+# 🌟 Day 61 - Smallest and Largest Element in an Array
 
 ## 📜 Program Statement
 
