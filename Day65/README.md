@@ -1,4 +1,4 @@
-# 🌟 Day 48 — Remove Duplicate Elements from an Array
+# 🌟 Day 65 — Remove Duplicate Elements from an Array
 
 ## 📝 Problem Statement
 
