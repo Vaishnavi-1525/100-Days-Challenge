@@ -53,5 +53,6 @@ Y = sorted descending
 
 ## ▶️ How to Run the Code
 ## Java ☕
+```
 javac day64.java
 java day64
