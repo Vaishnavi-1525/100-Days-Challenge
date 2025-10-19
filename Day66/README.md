@@ -39,7 +39,9 @@ Sum = a12+a22+a32+⋯+an2
 
 #### ✅ Sample Output 2: 30
 
---- ## ▶️ How to Run the Code 
+---
+
+## ▶️ How to Run the Code 
 ## Java ☕
 ```
 javac day66.java
