@@ -43,7 +43,7 @@ Use a HashSet to store elements of one array and then check for common elements 
 #### ✅ Sample Output 2: Not disjoint. (6 is common)
 
 ## ▶️ How to Run the Code 
-## Java ☕
+### Java ☕
 ```
 javac day69.java
 java day69
