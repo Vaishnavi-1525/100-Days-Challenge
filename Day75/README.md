@@ -1,4 +1,4 @@
-# 🌟 Day 60 — Good Weather
+# 🌟 Day 75 — Good Weather
 
 ## 💡 Problem Statement
 
@@ -15,24 +15,25 @@ Your task is to determine if the weather report of Magicland is Good or Not.
 
 ## 🧮 Concept
 
-A week has 7 days.
-To be considered Good Weather, the number of sunny days must be more than rainy days.
-So,
-Count of 1’s (Sunny Days) > Count of 0’s (Rainy Days)
-Count of 1’s (Sunny Days)c> Count of 0’s (Rainy Days)
-If true → Print "YES", else "NO".
+- A week has 7 days.
+- To be considered Good Weather, the number of sunny days must be more than rainy days.
+- So, Count of 1’s (Sunny Days) > Count of 0’s (Rainy Days)
+- Count of 1’s (Sunny Days)c> Count of 0’s (Rainy Days)
+- If true → Print "YES", else "NO".
 
 ---
 
 ## 🧩 Sample Input & Output
+
 ### 🧠 Example 1
-#### Input: 4
+
+### Input: 4
 #### 1 0 1 0 1 1 1
 #### 0 1 0 0 0 0 1
 #### 1 1 1 1 1 1 1
 #### 0 0 0 1 0 0 0
 
-#### Process:
+### Process:
 
 #### Test Case	Sunny (1’s)	Rainy (0’s)	Result
 #### 1	5	2	YES ✅
