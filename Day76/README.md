@@ -19,12 +19,12 @@ Category	Condition	Output
 
 ## 📖 Explanation
 
-Take the number of test cases T as input.
-For each test case, take two integers:
-M → mass (in kg)
-H → height (in meters)
-Compute BMI using the formula M / (H * H).
-Print the category number (1, 2, 3, or 4).
+- Take the number of test cases T as input.
+- For each test case, take two integers:
+- M → mass (in kg)
+- H → height (in meters)
+- Compute BMI using the formula M / (H * H).
+- Print the category number (1, 2, 3, or 4).
 
 ---
 
