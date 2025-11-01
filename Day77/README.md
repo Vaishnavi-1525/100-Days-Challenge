@@ -3,10 +3,15 @@
 ## 📝 Problem Statement
 
 In Magicland, the weather report is considered Good if the number of sunny days in a week is strictly greater than the number of rainy days.
+
 You are given 7 integers —
+
 A1, A2, A3, A4, A5, A6, A7
+
 Ai = 1 → Sunny day ☀️
+
 Ai = 0 → Rainy day 🌧️
+
 Determine whether the weather is Good or Not.
 
 ---
