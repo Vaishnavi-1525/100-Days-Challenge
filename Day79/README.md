@@ -1,6 +1,6 @@
 # 🌟 Day 79 – Gold Mining
 
-##📝 Problem Statement
+## 📝 Problem Statement
 
 Anusree and his N friends (so total N + 1 people) go to a gold mine that contains X kg of gold.
 Each person can carry at most Y kg of gold.
