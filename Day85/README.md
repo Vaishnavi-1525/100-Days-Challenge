@@ -5,7 +5,9 @@
 You are given a series of queries. Each query is of one of the following three types:
 
 1️⃣ Add x → Add element x to the set.
+
 2️⃣ Delete x → Remove element x from the set (if it exists).
+
 3️⃣ Search x → If x is present in the set, print "Yes", otherwise print "No".
 
 ---
