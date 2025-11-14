@@ -59,13 +59,18 @@ For each test case, print the sum of weights for all subarrays of size ≥ 3.
 
 ## 🧪 Sample Input
 2
+
 4
+
 1 2 3 4
+
 5
+
 1 42 69 228 2021
 
 ## ✅ Sample Output
 4
+
 1041808
 
 ---
