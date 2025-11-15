@@ -33,28 +33,45 @@ If any type appears an odd number of times, equal distribution is impossible.
 ## 📝 Sample
 ### 📥 Input
 4
+
 3
+
 4 4 4
+
 4
+
 2 3 3 2
+
 4
+
 1 2 2 3
+
 6
+
 5 5 1 5 1 5
 
 ### 📤 Output
+
 NO
+
 YES
+
 NO
+
 YES
 
 ---
 
 ## 💡 Explanation
+
 Animal Types	Frequency	Can Split?	Output
+
 4 4 4	{4: 3} → odd	❌ No	NO
+
 2 3 3 2	{2:2, 3:2} → all even	✔️ Yes	YES
+
 1 2 2 3	{1:1, 2:2, 3:1} → odd exist	❌ No	NO
+
 5 5 1 5 1 5	{5:4, 1:2} → all even	✔️ Yes	YES
 
 ---
