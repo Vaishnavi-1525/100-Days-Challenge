@@ -48,21 +48,21 @@ Because each such boundary requires one reversal operation.
 
 ## 📝 Sample Input & Output
 
-### Input: 000
+#### Input: 000
 
-### Output:0
+#### Output:0
 
-### Input: 1001
+#### Input: 1001
 
-### Output: 1
+#### Output: 1
 
-### Input: 1010
+#### Input: 1010
 
-### Output: 2
+#### Output: 2
 
-### Input: 010101
+#### Input: 010101
 
-### Output: 2
+#### Output: 2
 
 ---
 
