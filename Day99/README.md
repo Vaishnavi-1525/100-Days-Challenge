@@ -16,6 +16,7 @@ One of the values will always be 0 → because of the empty subset.
 The smallest non-zero number is always part of the original array.
 
 After extracting one element, remove every subset sum that includes that element, and continue until all N numbers are recovered.
+
 ---
 
 ## 📝 Sample Input & Output
