@@ -1,11 +1,11 @@
+<div align="center">
+
 # 🚀 100 Days of Code — Java DSA
 
-![Status](https://img.shields.io/badge/Progress-Continuing-blue)
-![Language](https://img.shields.io/badge/Language-Java-orange)
-![Challenge](https://img.shields.io/badge/100_Days-Challenge-success)
+Welcome to my 100 Days of Code journey!  
+This repository documents all problems, logic, and learning focused on improving **Java skills** and mastering **DSA concepts**.
 
-Welcome to my **100 Days Coding Challenge Repository**, where I practice problem-solving consistently and build strong concepts in **Java & Data Structures and Algorithms (DSA)**.
-
+</div>
 ---
 
 ## 🎯 Challenge Goals
