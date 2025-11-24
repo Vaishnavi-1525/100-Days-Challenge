@@ -1,11 +1,14 @@
-<div align="center">
+
 
 # 🚀 100 Days of Code — Java DSA
 
 Welcome to my 100 Days of Code journey!  
+
+
 This repository documents all problems, logic, and learning focused on improving **Java skills** and mastering **DSA concepts**.
 
-</div>
+
+
 ---
 
 ## 🎯 Challenge Goals
