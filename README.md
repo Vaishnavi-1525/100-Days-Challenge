@@ -1,17 +1,20 @@
-# 🚀 100 Days Coding Challenge  
+# 🚀 100 Days Coding Challenge — Java DSA
 
-This repository contains my code for the **100 Days Coding Challenge**.  
-I will upload programs daily in **Java** ☕.  
+Welcome to my **100 Days Coding Challenge Repository!**  
+This challenge helped me build consistency in coding, improve problem-solving skills, and strengthen my foundation in **Java and Data Structures & Algorithms (DSA)**.
 
+---
+
+## 🎯 Challenge Goals
+
+✔️ Code every day for 100 days  
+✔️ Improve logical thinking & problem-solving  
+✔️ Strengthen core Java knowledge  
+✔️ Practice DSA concepts with real problems  
+✔️ Build consistency and coding discipline  
 
 ---
 
-## 🎯 Goals  
-- Practice coding consistently for 100 days 🗓️  
-- Improve problem-solving and programming skills 💡  
-- Strengthen knowledge of Java 💻  
-
----
 
 ## 💻 How to Run Code  
 
